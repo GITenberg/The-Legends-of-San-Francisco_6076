@@ -1,0 +1,25 @@
+_repo: The-Legends-of-San-Francisco_6076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caldwell, George W. (George Walter)
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '1933'
+    url: http://www.gutenberg.org/2009/agents/1933
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco (Calif.) -- History -- Poetry'
+- !lcsh 'Legends -- California -- San Francisco'
+- !lcc 'PS'
+- GITenberg
+title: The Legends of San Francisco
+url: http://www.gutenberg.org/ebooks/6076
